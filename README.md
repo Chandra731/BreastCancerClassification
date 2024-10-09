@@ -1,4 +1,3 @@
-# SupportVectorMachine
 
 # Breast Cancer Classification with SVM
 
@@ -6,7 +5,7 @@ This project demonstrates the use of Support Vector Machines (SVM) for classifyi
 
 ## How to Run
 
-1. **Clone the repository:** `git clone https://github.com/brucelee31072004/SupportVectorMachines`
+1. **Clone the repository:** `git clone https://github.com/brucelee31072004/BreastCancerClassification`
 2. **Install dependencies:** `pip install scikit-learn pandas`
 3. **Run the script:** `python breast_cancer_classification.py`
 
